@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GoVetUCCollection
 // @namespace    https://github.com/goveteth
-// @version      0.1.1
+// @version      0.1.2
 // @description  Govet UserScript Collection
 // @license      MIT
 // @icon         https://avatars.githubusercontent.com/u/124812342?v=4
@@ -14,8 +14,7 @@
 // @require      https://cdn.jsdelivr.net/npm/systemjs@6.15.1/dist/system.min.js
 // @require      https://cdn.jsdelivr.net/npm/systemjs@6.15.1/dist/extras/named-register.min.js
 // @require      data:application/javascript,%3B(typeof%20System!%3D'undefined')%26%26(System%3Dnew%20System.constructor())%3B
-// @connect      github.com
-// @connect      deepwiki.com
+// @connect      motherless.com
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
 // @noframes

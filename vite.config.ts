@@ -64,7 +64,7 @@ export default defineConfig(async () => {
           grant: ['GM_xmlhttpRequest', 'GM_download'],
           updateURL: 'https://github.com/goveteth/us-collection/raw/main/dist/govet-us-collection.user.js',
           downloadURL: 'https://github.com/goveteth/us-collection/raw/main/dist/govet-us-collection.user.js',
-          connect: ['github.com', 'deepwiki.com'],
+          connect: ['motherless.com'],
           noframes: true,
           license: 'MIT',
         },
