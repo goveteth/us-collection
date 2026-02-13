@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "bradlc.vscode-tailwindcss",
+    "andywang.vscode-scriptmonkey",
+    "darxeal.tampermonkey-snippets",
+    "dbaeumer.vscode-eslint"
+  ]
+}
